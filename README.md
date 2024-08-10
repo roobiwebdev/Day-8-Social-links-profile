@@ -8,10 +8,6 @@ Users should be able to:
 
 - See hover and focus states for all interactive elements on the page
 
-### Screenshot
-
-![Social_Links_Profile-transformed](https://github.com/user-attachments/assets/884edad2-b153-412a-aba4-d626ef4bd383)
-
 
 ### Links
 
