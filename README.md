@@ -10,9 +10,7 @@ Users should be able to:
 
 ### Screenshot
 
-
-![active-states](https://github.com/user-attachments/assets/fc1d98fc-e50f-4816-9f13-c5f26be3e0e3)
-
+![Social Links Profile-2222](https://github.com/user-attachments/assets/7e9cc071-b843-4cdd-b71e-5417a3d7096f)
 
 ### Links
 
