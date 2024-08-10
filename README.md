@@ -8,6 +8,11 @@ Users should be able to:
 
 - See hover and focus states for all interactive elements on the page
 
+## Screenshot
+
+![active-states](https://github.com/user-attachments/assets/7b8e19b3-9c5c-4d98-8e22-563773c1225d)
+
+
 
 ### Links
 
@@ -18,5 +23,5 @@ Users should be able to:
 
 ### Built with
 
-- Semantic HTML5 markup
+- HTML5 
 - CSS - For styles
